@@ -1,0 +1,6 @@
+     Version                     Current Task                                                 Next Task
+    tkl_001_01               Basic Implementation                                       All ToDo to be Implemented
+    tkl_002_01               ToDo Implemented
+			     *isSeatsAvailable() Newly implemented                      Seat allocation based on priorities in tkl_100_01
+											Waiting list implemetation and fare detail
+
